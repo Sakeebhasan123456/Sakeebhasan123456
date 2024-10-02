@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **Retrival Augumented Genration**
 
-- 👯 I’m looking to collaborate on **Girl Script Summer of code**
+- 👯 I’m collaborate on **Girl Script Summer of code**
 
-- 💬 Ask me about **Machine Learning,Deep Learning, NLP,tensorflow,Keras**
+- 💬 Ask me about **Machine Learning,Deep Learning, NLP,tensorflow,Keras,LLM**
 
 - 📫 How to reach me **skk197064@gmail.com**
 
