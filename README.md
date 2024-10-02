@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Data Science and Machine Learning</h3>
 
 <div style="display: flex; width: 100; height: auto; margin: 0; padding: 0;">
-  <img src="https://i.gifer.com/PcUC.gif" style="width: 30%; height: auto; margin: 0;" alt="GIF description">
-  <img src="https://i.gifer.com/PcUC.gif" style="width: 50%; height: auto; margin: 0;" alt="GIF description">
+  <img src="https://i.gifer.com/PcUC.gif" style="width: 45%; height: auto; margin: 0;" alt="GIF description">
   <img src="https://i.gifer.com/PcUC.gif" style="width: 60%; height: auto; margin: 0;" alt="GIF description">
   <img src="https://i.gifer.com/PcUC.gif" style="width: 70%; height: auto; margin: 0;" alt="GIF description">
-  <img src="https://i.gifer.com/PcUC.gif" style="width: 90%; height: auto; margin: 0;" alt="GIF description">
+  <img src="https://i.gifer.com/PcUC.gif" style="width: 80%; height: auto; margin: 0;" alt="GIF description">
+  
 
 </div>
 
