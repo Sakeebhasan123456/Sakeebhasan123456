@@ -1,58 +1,118 @@
-<h1 align="center">Hi 👋, I'm Sakeeb hasan</h1>
-<h3 align="center">A passionate Data Science and Machine Learning Future Engineer </h3>
+<h1 align="center">Hi 👋, I'm Sakeeb Hasan</h1>
+<h3 align="center">A Passionate Data Scientist and Machine Learning Engineer</h3>
 
-<div style="display: flex; width: 100; height: auto; margin: 0; padding: 0;">
+<div style="display: flex; width: 100vw; height: auto; margin: 0; padding: 0;">
   <img src="https://i.gifer.com/PcUC.gif" style="width: 45%; height: auto; margin: 0;" alt="GIF description">
-  <img src="https://i.gifer.com/PcUC.gif" style="width: 60%; height: auto; margin: 0;" alt="GIF description">
+  <img src="https://i.gifer.com/PcUC.gif" style="width: 50%; height: auto; margin: 0;" alt="GIF description">
   <img src="https://i.gifer.com/PcUC.gif" style="width: 70%; height: auto; margin: 0;" alt="GIF description">
-  <img src="https://i.gifer.com/PcUC.gif" style="width: 80%; height: auto; margin: 0;" alt="GIF description">
+  <img src="https://i.gifer.com/PcUC.gif" style="width: 90%; height: auto; margin: 0;" alt="GIF description">
   
-
 </div>
 
 
+---
 
+### 💫 About Me:
 
+- 🔭 I’m currently working on [Explainable AI](https://github.com/Sakeebhasan123456/explainableai)
+- 🌱 I’m currently learning **Retrieval Augmented Generation**
+- 👯 I’m collaborating on **Girl Script Summer of Code**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, TensorFlow, Keras, LLMs**
+- 📫 How to reach me: **skk197064@gmail.com**
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1aLHAeTZ9S99pWdw-DGYrpIMfmUnQ2gqM/view?usp=drivesdk)
 
+---
 
+### 🚀 Projects:
 
+- **Explainable AI:** [GitHub Repo](https://github.com/Sakeebhasan123456/explainableai)
+- **Project 2:** Description of another project
+- **Project 3:** Description of another project
 
+---
 
+### 🏆 Achievements:
 
+- **Certification 1:** Details about certification
+- **Award 1:** Details about award
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakeebhasan123456&label=Profile%20views&color=0e75b6&style=flat" alt="sakeebhasan123456" /> </p>
+### 🛠️ Languages and Tools:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakeebhasan123456" alt="sakeebhasan123456" /></a> </p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+</p>
+---
+---
 
-- 🔭 I’m currently working on [Explainable-ai](https://github.com/Sakeebhasan123456/explainableai)
+### 📊 GitHub Stats:
 
-- 🌱 I’m currently learning **Retrival Augumented Genration**
-
-- 👯 I’m collaborate on **Girl Script Summer of code**
-
-- 💬 Ask me about **Machine Learning,Deep Learning, NLP,tensorflow,Keras,LLM**
-
-- 📫 How to reach me **skk197064@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aLHAeTZ9S99pWdw-DGYrpIMfmUnQ2gqM/view?usp=drivesdk](https://drive.google.com/file/d/1aLHAeTZ9S99pWdw-DGYrpIMfmUnQ2gqM/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sakeebhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakeebhasan" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sakibhasanml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sakibhasanml" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sakeeb_hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sakeeb_hasan/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sakeeb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sakeeb/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakeebhasan123456&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakeebhasan123456&theme=radical" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakeebhasan123456&show_icons=true&locale=en&layout=compact" alt="sakeebhasan123456" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakeebhasan123456&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakeebhasan123456&show_icons=true&locale=en" alt="sakeebhasan123456" /></p>
+---
+### 🌐 Connect with Me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakeebhasan123456&" alt="sakeebhasan123456" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/sakeebhasan" target="_blank">
+    <img src="https://img.shields.io/badge/-Sakeeb%20Hasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sakeebhasan"/>
+  </a>
+  <a href="https://www.kaggle.com/sakibhasanml" target="_blank">
+    <img src="https://img.shields.io/badge/-Sakib%20Hasan-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/sakibhasanml"/>
+  </a>
+  <a href="mailto:skk197064@gmail.com">
+    <img src="https://img.shields.io/badge/-skk197064@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skk197064@gmail.com"/>
+  </a>
+</p>
+---
+---
+
+### 💡 Quote of the Day:
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+</p>
+
+---
+
+### 📫 Latest Blog Posts:
+
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post 1](#)
+- [Blog Post 2](#)
+- [Blog Post 3](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### ⚡ Fun Fact:
+
+- 💡 Did you know that the first computer bug was an actual moth found stuck in a computer?
+
+---
+
+
 
 <!--
 **Sakeebhasan123456/Sakeebhasan123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
