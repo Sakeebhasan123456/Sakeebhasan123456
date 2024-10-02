@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakeeb hasan</h1>
 <h3 align="center">A passionate Data Science and Machine Learning</h3>
-<img src="[https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202211/MIT-Neural-Networks-01_0.gif?itok=JNbooIWQ](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202211/MIT-Neural-Networks-01_0.gif?itok=JNbooIWQ)" width="400" alt="GIF description">
+<img align="left" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc4OTc4NjAsIm5iZiI6MTcyNzg5NzU2MCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAyVDE5MzI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExMDJkMGIzN2UwZTY5ZTgzYzc2ZDRiY2Q1YmU1MjQ0MjkzNGMzNzhiZjI4MTg3MjA5ZGMxOTYxN2ZjZDZmOGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xbQFQzGD-OKV7VAg9_ZKCC0AcYo_LfwvuqFd8cZUg4Y" width="400" alt="GIF description">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" alt="GIF description">
 
 
 
