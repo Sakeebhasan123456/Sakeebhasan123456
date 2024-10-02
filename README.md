@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakeeb hasan</h1>
 <h3 align="center">A passionate Data Science and Machine Learning</h3>
-<a href="https://makeagif.com/gif/gradient-descent-how-neural-networks-learn-deep-learning-chapter-2-q3ItDm" title="Gradient descent, how neural networks learn | Deep learning, chapter 2">
-    <img src="https://i.makeagif.com/media/7-23-2019/q3ItDm.gif" alt="Gradient descent, how neural networks learn | Deep learning, chapter 2" width="1100">
-</a>
-<div style="font-size:13px;">make <a href="https://makeagif.com/" title="make a gif">action GIFs</a> like this at MakeaGif</div>
+<img src="[https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202211/MIT-Neural-Networks-01_0.gif?itok=JNbooIWQ](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202211/MIT-Neural-Networks-01_0.gif?itok=JNbooIWQ)" width="400" alt="GIF description">
+
 
 
 
