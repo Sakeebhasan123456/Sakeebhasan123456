@@ -14,7 +14,7 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on [Explainable AI](https://github.com/Sakeebhasan123456/explainableai)
+- 🔭 I’m currently working with [Explainable AI](https://github.com/Sakeebhasan123456/explainableai) as a Contributer
 - 🌱 I’m currently learning **Retrieval Augmented Generation**
 - 👯 I’m collaborating on **Girl Script Summer of Code**
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, TensorFlow, Keras, LLMs**
