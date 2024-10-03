@@ -33,8 +33,10 @@
 
 ### 🏆 Achievements:
 
-- **Certification 1:** Details about certification
-- **Award 1:** Details about award
+- **Certification 1:** [Asian Paint Hackthon](https://drive.google.com/file/d/1auCTpRKZH2ipYf55SDP0AyXAGaLOaAWh/view?usp=drivesdk)
+- **Certification 2:** [flipkartGrid Hackthon](https://drive.google.com/file/d/1b1NNk-V0pZH_qZI4ZsKf7i4k1hAsp3cF/view?usp=drivesdk)
+- **Certification 3:** [Amazon Hacktton](https://drive.google.com/file/d/1awjAphr6G2N9OEq9Wtb7DeOKsLS_0LBA/view?usp=drivesdk)
+- **Certification 4:**  [Best Teacher Award](https://drive.google.com/file/d/1SWswNVIZILwUrpCBDHJz7fAKlZlagn2n/view)
 
 ---
 
