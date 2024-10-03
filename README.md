@@ -23,11 +23,12 @@
 
 ---
 
-### 🚀 Projects:
+### 🚀 Contributions:
 
 - **Explainable AI:** [GitHub Repo](https://github.com/Sakeebhasan123456/explainableai)
-- **Project 2:** Description of another project
-- **Project 3:** Description of another project
+- **Piverse Library:** [Github Repo](https://github.com/Sakeebhasan123456/PyVerse)
+- **Kabbadi py:**[Github Repo](https://github.com/Sakeebhasan123456/kabaddiPy)
+- **/ISRO_Mining_Site_FINAL_APP:**[Github Repo](https://github.com/Sakeebhasan123456/ISRO_Mining_Site_FINAL_APP)
 
 ---
 
